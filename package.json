@@ -1,0 +1,20 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/wamurombedzi/HelloWorld#readme",
+  "bugs": {
+    "url": "https://github.com/wamurombedzi/HelloWorld/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wamurombedzi/HelloWorld.git"
+  },
+  "license": "ISC",
+  "author": "Wadzanai Murombedzi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
