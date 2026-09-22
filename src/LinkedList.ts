@@ -1,3 +1,7 @@
+/** Used to store collections of data that cahnge in size,
+ * frequently or require fast insertions and deletions
+ */
+
 class ListNode {
     public data: number;
     public next: ListNode | null;

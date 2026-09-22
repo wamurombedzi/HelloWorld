@@ -1,3 +1,8 @@
+/**
+ * Classes are prints for creating objects that extend standard Javascript ES6 classes
+ * by adding static type checking, visibility modifiers, and advanced object-oriented features.
+ */
+
 class Animal {
     private name: string;
 

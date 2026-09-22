@@ -1,5 +1,7 @@
-console.log(1);
+//It fetches user profile from the remote server
 
+console.log(1);
+// Logs a message after a second
 setTimeout(() => {
     console.log('waited 1 sec')
 }, 1000);
